@@ -10,34 +10,6 @@ Square Calculator API — это простое RESTful веб-приложен�
 - Spring Boot 3.0.0
 - Maven
 
-## Структура проекта
-
-```
-SquareCalculator/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── example/
-│   │   │           ├── Pract2Application.java    // Главный класс
-│   │   │           ├── controller/
-│   │   │           │   └── SquareController.java   // Контроллер для обработки запросов
-│   │   │           └── service/
-│   │   │               └── SquareService.java      // Сервис для вычисления квадрата
-│   │   └── resources/
-│   │       └── application.properties               // Конфигурация приложения
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── example/
-│                   └── SquareCalculatorApplicationTests.java // Тесты
-│
-├── pom.xml       // Файл конфигурации Maven
-│
-└── README.md      // Документация проекта
-```
-
 ## Запуск проекта
 
 1. **Клонируйте репозиторий**:
