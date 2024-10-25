@@ -8,8 +8,8 @@ Square Calculator API — это простое RESTful веб-приложен�
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone <https://github.com/DFE203/Pract_1_2>
-   cd SquareCalculator
+   git clone https://github.com/DFE203/Pract_1_2
+   cd Pract_1_2
    ```
 
 2. **Соберите проект**:
