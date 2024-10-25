@@ -1,4 +1,4 @@
-# Square Calculator API
+# Задание 2
 
 ## Описание проекта
 
